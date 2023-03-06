@@ -8,5 +8,6 @@ public class ToDoApiApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ToDoApiApplication.class, args);
+		System.out.println("Hello world");
 	}
 }
